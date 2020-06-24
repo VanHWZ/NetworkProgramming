@@ -16,8 +16,3 @@ udp-datetime
 
 腾讯会议抓包
 
-<<<<<<< HEAD
-2222222
-=======
-111111
->>>>>>> refs/remotes/origin/master
